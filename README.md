@@ -4,7 +4,7 @@
 [name]
 
 ## Team Members:
-1. Jacob Greenwald @jg79522
+1. Jacob Greenwald [@jg79522] (https://github.com/jg79522)
 2. [name]
 3. [name]
 4. [name]
