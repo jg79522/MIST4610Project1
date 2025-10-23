@@ -32,11 +32,70 @@ Finally, since a single ProductionCompany can oversee the creation of multiple m
 ![plot](./ProjectDataModelExport.png)
 
 ## Data Dictionary:
-[png for every table (10-15)]
+![plot](./Agent.png
+
+![plot](./Assignment.png
+
+![plot](./Contracts.png
+
+![plot](./Credits.png
+
+![plot](./Location.png
+
+![plot](./Movies.png
+
+![plot](./Person.png
+
+![plot](./ProductionCompany.png
+
+![plot](./ProductionSite.png
+
+![plot](./RevenueReport.png
+
+![plot](./TheaterCompany.png
 
 ## Queries:
-[query chart png]
-[png and brief info for each query (10)]
+![plot](./QueryChat.png
+
+1. Query 1: 
+![plot](./Query1.png
+
+
+3. Query 2:
+![plot](./Query2.png
+
+
+5. Query 3:
+![plot](./Query3.png
+
+
+7. Query 4:
+![plot](./Query4.png
+
+
+9. Query 5:
+![plot](./Query5.png
+
+
+11. Query 6:
+![plot](./Query6.png
+
+
+13. Query 7:
+![plot](./Query7.png
+
+
+15. Query 8:
+![plot](./Query8.png
+
+
+17. Query 9:
+![plot](./Query9.png
+
+
+19. Query 10:
+![plot](./Query10.png
+
 
 ## Database Information:
 Name of the database: ns_F25MIST4610_59925_Group1
