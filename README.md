@@ -41,4 +41,4 @@ Finally, since a single ProductionCompany can oversee the creation of multiple m
 ## Database Information:
 Name of the database: ns_F25MIST4610_59925_Group1
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
