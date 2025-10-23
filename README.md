@@ -5,10 +5,10 @@
 
 ## Team Members:
 1. Jacob Greenwald [@jg79522](https://github.com/jg79522)
-2. [name]
-3. [name]
-4. [name]
-5. [name]
+2. Iliana Venegas [@imv2ven](https://github.com/imv2ven)
+3. Alexa Persad [@aepersad](https://github.com/aepersad)
+4. Allison Chaloupek [@allisonchaloupek](https://github.com/allisonchaloupek)
+5. David Breen [@davidbreen23](https://github.com/davidbreen23)
 
 ## Problem Description:
 The task at hand is to model and build a relational database for the general operations of a film production company network. The central entity in the model is the ProductionCompany entity, which represents each studio that finances, manages, and oversees film projects. Each production company works collaboratively with agents, actors, crew members, and distribution partners to bring movies from concept to release. The model captures the company’s relationships with agents and contracts, which govern talent representation and project negotiations. It also tracks movies, their filming locations, and production sites, as well as assignments connecting crew members and personnel to those sites. Beyond production, the model reflects the distribution side of operations, linking movies to theaters and corresponding revenue reports that provide insight into financial performance. We will accurately model these relationships, generate sample data, and populate the entities with representative information. We will also perform functioning queries on this data so they may yield valuable business insights into the film production process, such as tracking movie profitability, analyzing agent partnerships, and evaluating personnel and site utilization across projects.
