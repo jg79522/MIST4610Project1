@@ -25,4 +25,6 @@
 [png and brief info for each query (10)]
 
 ## Database Information:
-[idk]
+Name of the database: ns_F25MIST4610_59925_Group1
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format:
