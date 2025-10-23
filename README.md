@@ -28,7 +28,8 @@ Additionally, movies are linked to the Persons who contributed to them—such as
 
 Finally, since a single ProductionCompany can oversee the creation of multiple movies, there is a one-to-many relationship between ProductionCompany and Movie. This ties together the creative, operational, and financial aspects of filmmaking under one company, providing a comprehensive structure for managing the full production lifecycle within the data model.
 
-!(./ProjectDataModelExport.png)
+
+![plot](./ProjectDataModelExport.png)
 
 ## Data Dictionary:
 [png for every table (10-15)]
