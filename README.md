@@ -55,7 +55,7 @@ Finally, since a single ProductionCompany can oversee the creation of multiple m
 ![plot](./TheaterCompany.png
 
 ## Queries:
-![plot](./QueryChat.png
+![plot](./Query_Table.png)
 
 1. Query 1: 
 ![plot](./Query_1.png)
