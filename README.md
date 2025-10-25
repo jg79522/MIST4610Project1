@@ -32,27 +32,27 @@ Finally, since a single ProductionCompany can oversee the creation of multiple m
 ![plot](./ProjectDataModel_Final.png)
 
 ## Data Dictionary:
-![plot](./Agent.png
+![plot](./Agent.png)
 
-![plot](./Assignment.png
+![plot](./Assignment.png)
 
-![plot](./Contracts.png
+![plot](./Contracts.png)
 
-![plot](./Credits.png
+![plot](./Credits.png)
 
-![plot](./Location.png
+![plot](./Location.png)
 
-![plot](./Movies.png
+![plot](./Movies.png)
 
-![plot](./Person.png
+![plot](./Person.png)
 
-![plot](./ProductionCompany.png
+![plot](./ProductionCompany.png)
 
-![plot](./ProductionSite.png
+![plot](./ProductionSite.png)
 
-![plot](./RevenueReport.png
+![plot](./RevenueReport.png)
 
-![plot](./TheaterCompany.png
+![plot](./TheaterCompany.png)
 
 ## Queries:
 ![plot](./Query_Table.png)
